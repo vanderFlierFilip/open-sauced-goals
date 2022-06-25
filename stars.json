@@ -7,9 +7,9 @@
   },
   {
     "full_name": "javascript-tutorial/en.javascript.info",
-    "stargazers_count": 17993,
+    "stargazers_count": 18003,
     "open_issues_count": 76,
-    "forks_count": 3208
+    "forks_count": 3212
   },
   {
     "full_name": "aspnetboilerplate/abp-ng2-module",
@@ -19,15 +19,15 @@
   },
   {
     "full_name": "1milligram/1loc",
-    "stargazers_count": 5860,
+    "stargazers_count": 5862,
     "open_issues_count": 47,
     "forks_count": 458
   },
   {
     "full_name": "blazorhero/CleanArchitecture",
-    "stargazers_count": 2612,
+    "stargazers_count": 2618,
     "open_issues_count": 71,
-    "forks_count": 518
+    "forks_count": 519
   },
   {
     "full_name": "ArtifexYT/Luna",
@@ -37,13 +37,13 @@
   },
   {
     "full_name": "OpenAPITools/openapi-generator",
-    "stargazers_count": 12649,
-    "open_issues_count": 3285,
-    "forks_count": 4330
+    "stargazers_count": 12656,
+    "open_issues_count": 3272,
+    "forks_count": 4334
   },
   {
     "full_name": "yonaskolb/SwagGen",
-    "stargazers_count": 516,
+    "stargazers_count": 517,
     "open_issues_count": 69,
     "forks_count": 142
   },
@@ -85,7 +85,7 @@
   },
   {
     "full_name": "interagent/http-api-design",
-    "stargazers_count": 13599,
+    "stargazers_count": 13598,
     "open_issues_count": 32,
     "forks_count": 1086
   },
@@ -93,7 +93,7 @@
     "full_name": "WhiteHouse/api-standards",
     "stargazers_count": 2986,
     "open_issues_count": 34,
-    "forks_count": 908
+    "forks_count": 909
   },
   {
     "full_name": "nirkaufman/teleport",
@@ -115,20 +115,20 @@
   },
   {
     "full_name": "jwasham/coding-interview-university",
-    "stargazers_count": 222236,
+    "stargazers_count": 222269,
     "open_issues_count": 48,
-    "forks_count": 60218
+    "forks_count": 60232
   },
   {
     "full_name": "public-apis/public-apis",
-    "stargazers_count": 197109,
-    "open_issues_count": 16,
-    "forks_count": 22714
+    "stargazers_count": 197167,
+    "open_issues_count": 17,
+    "forks_count": 22725
   },
   {
     "full_name": "renovatebot/renovate",
-    "stargazers_count": 8603,
-    "open_issues_count": 986,
-    "forks_count": 1183
+    "stargazers_count": 8608,
+    "open_issues_count": 990,
+    "forks_count": 1184
   }
 ]
