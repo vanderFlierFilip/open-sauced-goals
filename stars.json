@@ -7,9 +7,9 @@
   },
   {
     "full_name": "javascript-tutorial/en.javascript.info",
-    "stargazers_count": 18045,
-    "open_issues_count": 73,
-    "forks_count": 3223
+    "stargazers_count": 18051,
+    "open_issues_count": 74,
+    "forks_count": 3225
   },
   {
     "full_name": "aspnetboilerplate/abp-ng2-module",
@@ -19,13 +19,13 @@
   },
   {
     "full_name": "1milligram/1loc",
-    "stargazers_count": 5890,
+    "stargazers_count": 5891,
     "open_issues_count": 47,
     "forks_count": 458
   },
   {
     "full_name": "blazorhero/CleanArchitecture",
-    "stargazers_count": 2624,
+    "stargazers_count": 2626,
     "open_issues_count": 71,
     "forks_count": 523
   },
@@ -37,9 +37,9 @@
   },
   {
     "full_name": "OpenAPITools/openapi-generator",
-    "stargazers_count": 12720,
-    "open_issues_count": 3307,
-    "forks_count": 4351
+    "stargazers_count": 12730,
+    "open_issues_count": 3308,
+    "forks_count": 4352
   },
   {
     "full_name": "yonaskolb/SwagGen",
@@ -109,26 +109,26 @@
   },
   {
     "full_name": "ai/easings.net",
-    "stargazers_count": 6428,
+    "stargazers_count": 6432,
     "open_issues_count": 8,
     "forks_count": 602
   },
   {
     "full_name": "jwasham/coding-interview-university",
-    "stargazers_count": 222742,
-    "open_issues_count": 49,
-    "forks_count": 60349
+    "stargazers_count": 222907,
+    "open_issues_count": 50,
+    "forks_count": 60379
   },
   {
     "full_name": "public-apis/public-apis",
-    "stargazers_count": 198586,
-    "open_issues_count": 23,
-    "forks_count": 22857
+    "stargazers_count": 198717,
+    "open_issues_count": 24,
+    "forks_count": 22870
   },
   {
     "full_name": "renovatebot/renovate",
-    "stargazers_count": 8653,
-    "open_issues_count": 996,
+    "stargazers_count": 8664,
+    "open_issues_count": 998,
     "forks_count": 1189
   }
 ]
