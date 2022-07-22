@@ -13,8 +13,8 @@
   },
   {
     "full_name": "javascript-tutorial/en.javascript.info",
-    "stargazers_count": 18226,
-    "open_issues_count": 86,
+    "stargazers_count": 18241,
+    "open_issues_count": 90,
     "forks_count": 3241
   },
   {
@@ -25,13 +25,13 @@
   },
   {
     "full_name": "1milligram/1loc",
-    "stargazers_count": 5956,
+    "stargazers_count": 5965,
     "open_issues_count": 47,
-    "forks_count": 464
+    "forks_count": 466
   },
   {
     "full_name": "blazorhero/CleanArchitecture",
-    "stargazers_count": 2680,
+    "stargazers_count": 2683,
     "open_issues_count": 72,
     "forks_count": 534
   },
@@ -43,9 +43,9 @@
   },
   {
     "full_name": "OpenAPITools/openapi-generator",
-    "stargazers_count": 12930,
-    "open_issues_count": 3369,
-    "forks_count": 4405
+    "stargazers_count": 12948,
+    "open_issues_count": 3382,
+    "forks_count": 4409
   },
   {
     "full_name": "yonaskolb/SwagGen",
@@ -55,7 +55,7 @@
   },
   {
     "full_name": "devmentors/PackIT",
-    "stargazers_count": 142,
+    "stargazers_count": 143,
     "open_issues_count": 0,
     "forks_count": 42
   },
@@ -79,9 +79,9 @@
   },
   {
     "full_name": "AzureAD/azure-activedirectory-identitymodel-extensions-for-dotnet",
-    "stargazers_count": 866,
-    "open_issues_count": 113,
-    "forks_count": 326
+    "stargazers_count": 867,
+    "open_issues_count": 112,
+    "forks_count": 327
   },
   {
     "full_name": "mores/angular-examples",
@@ -91,7 +91,7 @@
   },
   {
     "full_name": "interagent/http-api-design",
-    "stargazers_count": 13610,
+    "stargazers_count": 13611,
     "open_issues_count": 32,
     "forks_count": 1086
   },
@@ -115,26 +115,26 @@
   },
   {
     "full_name": "ai/easings.net",
-    "stargazers_count": 6468,
+    "stargazers_count": 6470,
     "open_issues_count": 8,
-    "forks_count": 604
+    "forks_count": 605
   },
   {
     "full_name": "jwasham/coding-interview-university",
-    "stargazers_count": 226058,
-    "open_issues_count": 50,
-    "forks_count": 60899
+    "stargazers_count": 226420,
+    "open_issues_count": 51,
+    "forks_count": 60973
   },
   {
     "full_name": "public-apis/public-apis",
-    "stargazers_count": 201637,
-    "open_issues_count": 5,
-    "forks_count": 23126
+    "stargazers_count": 201844,
+    "open_issues_count": 6,
+    "forks_count": 23148
   },
   {
     "full_name": "renovatebot/renovate",
-    "stargazers_count": 8954,
-    "open_issues_count": 1015,
-    "forks_count": 1210
+    "stargazers_count": 8978,
+    "open_issues_count": 1032,
+    "forks_count": 1217
   }
 ]
